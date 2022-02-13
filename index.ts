@@ -1,3 +1,4 @@
 const git = {
-    commands: "git add ."
+    commands: "git add .",
+    users: ["PierreBosch"]
 }
